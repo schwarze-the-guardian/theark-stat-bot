@@ -1,0 +1,5 @@
+{
+  "prefix": [".","!"],
+  "mongoUrl": "mongodb+srv://otoreg:livena_db@cluster0.sedh6.mongodb.net/register?retryWrites=true&w=majority",
+  "owners": ["476425824103301131","751009000669184041","627002414767276042"]
+}
